@@ -1,3 +1,9 @@
+> [!important]
+> 
+> 原网站 <https://vue-compiler.iamouyang.cn/> 已停止工作。本仓库用于在 GitHub Pages 上部署一个备份 <https://vuec.linho.cc/>。
+>
+> 以下是原 README 内容。
+
 # 欧阳也在找工作，坐标成都求内推！微信号：heavenyjj0012
 
 # Vue3 编译原理揭秘
