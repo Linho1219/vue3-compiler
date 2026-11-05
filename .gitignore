@@ -2,4 +2,3 @@
 /docs/.vitepress/dist
 /docs/.vitepress/cache
 package.lock
-pnpm-lock.yaml
